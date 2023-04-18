@@ -1,0 +1,4 @@
+Gobang is a game for all ages, the purpose of which is to connect vertical and vertical lines. 
+The first successful player wins. This procedure uses the function loop structure and two-dimensional array knowledge to achieve man-machine war.
+ Among them, machine chess uses pseudo random (time random) to achieve the basic function of backgammon. 
+This code idea originated in the network.
