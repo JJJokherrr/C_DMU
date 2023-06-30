@@ -13,7 +13,7 @@ struct key
 main(void)
 {   
     int n,i;
-	struct key array[3] = {{"Yuxan",95,25},{"Wenwen",13,14},{"c",67,68}};
+	struct key array[3] = {{"Yuxan",95,25},{"Wp",13,14},{"c",67,68}};
 	n=sizeof(array)/sizeof(array[0]);
 	printf("Please choose a type to rise Key, 1 or 2: ");
 	char ch[]=" ";
